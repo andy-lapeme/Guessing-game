@@ -1,4 +1,5 @@
 #!/bin/bash
+#!/bin/bash
 if [ "$#" -gt 2 ]; then
 echo "Usage: ./guess.sh <player> [easy|normal|hard]"
  exit 1
